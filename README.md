@@ -3,6 +3,8 @@ Apply averaged cross sectional weights following tubular topography, starting wi
 
 Another use case is if you make a contorted tube-ish polygonal surface and want to apply weights for an armature, this will even out the weights along the tube so that smearing does not occur.
 
+![Example Video](https://github.com/llealloo/blender-totally-tubular/blob/main/Docs/Example_AutomaticWeights_Tubular.gif)
+
 ## To install
 * Download the TotallyTubular.py and install through Blender Preferences -> Add-ons -> Install.
 * Tick the check box next to "Mesh: Totally Tubular" to enable it in the program. You're done!
