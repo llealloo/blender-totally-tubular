@@ -1,4 +1,4 @@
-# blender-totally-tubular
+# Blender addon: Totally Tubular
 Apply averaged cross sectional weights following tubular topography, starting with the edge of one end of the tube selected. Great for fixing weird hair weight painting on individual strands where weights differ on one side of the tube to the other, resulting in a smearing effect. This fixes that.
 
 Another use case is if you make a contorted tube-ish polygonal surface and want to apply weights for an armature, this will even out the weights along the tube so that smearing does not occur.
